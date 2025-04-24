@@ -12,3 +12,4 @@ C:\Users\retro\Documents\Spring 2025 BYUI\CSE 310 - Applied Programming\HelloWor
 C:\Users\retro\Documents\Spring 2025 BYUI\CSE 310 - Applied Programming\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
 C:\Users\retro\Documents\Spring 2025 BYUI\CSE 310 - Applied Programming\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
 C:\Users\retro\Documents\Spring 2025 BYUI\CSE 310 - Applied Programming\HelloWorld\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
+C:\Users\retro\Documents\Spring 2025 BYUI\CSE 310 - Applied Programming\HelloWorld\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json

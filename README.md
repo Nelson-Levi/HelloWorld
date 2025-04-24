@@ -11,7 +11,7 @@
 
 ## Instructions for Build and Use
 
-Steps to build andor run the software
+Steps to build and/or run the software
 
 1. Open the Program.cs file in Visual Studio Code. 
 2. From the upper menu, select Run  Run Without Debugging. 
@@ -40,5 +40,9 @@ I found these websites useful in developing this software:
 The following items I plan to fix, improve, andor add to this project in the future
 
  [ ] I could make the program display Hello World in different languages!
+
  [ ] I could experiment with a user menu. The user could select between phrases like Hello World, Good Morning World, and Greetings World.
+
  [ ] I could try elements of randomness. Maybe the program could randomly select a phrase instead of one hardcoded option.
+
+ Levi Nelson
